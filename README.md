@@ -1,1 +1,1 @@
-# Cindy-Zhang
+# ldsc terminal code exploration
